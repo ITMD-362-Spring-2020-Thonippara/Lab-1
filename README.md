@@ -1,2 +1,2 @@
 # lab1
-Live link: https://itmd-362-spring-2020-thonippara.github.io/lab1/.
+Live link: https://itmd-362-spring-2020-thonippara.github.io/lab1/
